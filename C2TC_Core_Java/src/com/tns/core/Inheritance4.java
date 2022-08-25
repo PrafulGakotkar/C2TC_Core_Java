@@ -2,7 +2,6 @@ package com.tns.core;
 
 
 //concept of multiple inheritance
-package com.tns.assignment2;
 
 interface Event { // first interface
 	public void start();
@@ -37,6 +36,4 @@ public class Inheritance4 {
 		jockey.show();
 	}
 }
-public class Inheritance4 {
 
-}

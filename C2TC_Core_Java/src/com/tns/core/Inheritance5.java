@@ -3,7 +3,7 @@ package com.tns.core;
 
 
 //hybrid inheritance
-package com.tns.assignment2;
+
 
 //parent class
 class GrandFather {
@@ -37,6 +37,4 @@ public class Inheritance5 extends Father {
 		obj.show();
 	}
 }
-public class Inheritance5 {
 
-}

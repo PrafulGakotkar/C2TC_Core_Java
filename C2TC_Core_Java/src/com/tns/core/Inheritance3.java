@@ -1,6 +1,5 @@
 package com.tns.core;
 //concept of Hierarchical inheritance
-package com.tns.assignment2;
 
 class A { // parent class
 	public void print_A() {
@@ -46,6 +45,4 @@ public class Inheritance3 {
 	}
 }
 
-public class Inheriyance3 {
 
-}
